@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.cxx/
+.externalNativeBuild/
+
+# Operating system
+.DS_Store
+Thumbs.db
